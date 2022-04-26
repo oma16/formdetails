@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/kcform/static/css/main.ef65642e.css",
+    "main.js": "/kcform/static/js/main.38043666.js",
+    "static/js/787.88009666.chunk.js": "/kcform/static/js/787.88009666.chunk.js",
+    "index.html": "/kcform/index.html",
+    "main.ef65642e.css.map": "/kcform/static/css/main.ef65642e.css.map",
+    "main.38043666.js.map": "/kcform/static/js/main.38043666.js.map",
+    "787.88009666.chunk.js.map": "/kcform/static/js/787.88009666.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef65642e.css",
+    "static/js/main.38043666.js"
+  ]
+}
