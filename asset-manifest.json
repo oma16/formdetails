@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/kcapis/static/css/main.43c3b499.css",
-    "main.js": "/kcapis/static/js/main.0b07abca.js",
-    "static/js/787.66fb6ae0.chunk.js": "/kcapis/static/js/787.66fb6ae0.chunk.js",
-    "index.html": "/kcapis/index.html",
-    "main.43c3b499.css.map": "/kcapis/static/css/main.43c3b499.css.map",
-    "main.0b07abca.js.map": "/kcapis/static/js/main.0b07abca.js.map",
-    "787.66fb6ae0.chunk.js.map": "/kcapis/static/js/787.66fb6ae0.chunk.js.map"
+    "main.css": "/kcform/static/css/main.ef65642e.css",
+    "main.js": "/kcform/static/js/main.38043666.js",
+    "static/js/787.88009666.chunk.js": "/kcform/static/js/787.88009666.chunk.js",
+    "index.html": "/kcform/index.html",
+    "main.ef65642e.css.map": "/kcform/static/css/main.ef65642e.css.map",
+    "main.38043666.js.map": "/kcform/static/js/main.38043666.js.map",
+    "787.88009666.chunk.js.map": "/kcform/static/js/787.88009666.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.43c3b499.css",
-    "static/js/main.0b07abca.js"
+    "static/css/main.ef65642e.css",
+    "static/js/main.38043666.js"
   ]
 }
